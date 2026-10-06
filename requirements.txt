@@ -1,3 +1,5 @@
 streamlit>=1.30.0
 admet-ai>=2.0.0
 pandas
+xlsxwriter
+torch==2.5.0
